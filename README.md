@@ -1,6 +1,6 @@
 Random-Episode-Bot
 
-This is a Discord chat bot. Every week or so, a Discord server that I take part it choose one Gumball episode at random to watch and discuss. Keeping track of it all by hand became unmangable, so this bot was designed to automate the process.
+This is a Discord chat bot that was first conceived in July of 2019. Every week or so, a Discord server that I take part it choose one Gumball episode at random to watch and discuss. Keeping track of it all by hand became unmangable, so this bot was designed to automate the process.
 
 The primary function of the bot is to automatically select one of 240 episodes and make a note of that so that it is taken out of the rotation. Alternatively, one can prompt the bot to choose a specific episode of their choosing provided it exists and that it hasn't already been selected.
 
